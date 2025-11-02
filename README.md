@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>💻 Nizar Étudiant en ingénierie informatique – 4ème année à Ensa Khouribga<br>🚀 Passionné par l'optimisation des performances des applications et systèmes<br>🛠️ Expérience avec plusieurs langages de programmation<br>📚 Toujours en quête d'apprentissage et de nouvelles technologies
+👋 About Me<br><br>💻 Nizar Étudiant en ingénierie informatique – 5ème année à Ensa Khouribga<br>🚀 Passionné par l'optimisation des performances des applications et systèmes<br>🛠️ Expérience avec plusieurs langages de programmation<br>📚 Toujours en quête d'apprentissage et de nouvelles technologies
 
 
 ## 🌐 Socials:
