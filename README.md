@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 About Me<br><br>💻 Nizar Étudiant en ingénierie informatique – 5ème année à Ensa Khouribga<br>🚀 Passionné par l'optimisation des performances des applications et systèmes<br>🛠️ Expérience avec plusieurs langages de programmation<br>📚 Toujours en quête d'apprentissage et de nouvelles technologies
+👋 About Me<br><br>💻Computer Science Engineer passionate about designing and developing scalable, secure, and high-performance web applications. My expertise lies primarily in backend development using .NET and Java, complemented by modern frontend technologies including React, Angular, and Blazor to build complete end-to-end solutions. I also have a strong interest in Cloud technologies, particularly Microsoft Azure, and DevOps practices, including CI/CD, containerization, and application deployment.
+
+I am currently open to Software Engineer opportunities across Morocco, France, Canada, and the Middle East. Curious, adaptable, and committed to continuous learning, I enjoy solving complex technical challenges, collaborating with cross-functional teams, and delivering innovative, high-quality software solutions that create real business value.
 
 
 ## 🌐 Socials:
