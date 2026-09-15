@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0284C7&height=220&section=header&text=Nizar%20Fikhane&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20%E2%80%A2%20Java%20%E2%80%A2%20Cloud%20%E2%80%A2%20DevOps&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0284C7&height=220&section=header&text=Nizar%20Fikhane&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20%E2%80%A2%20Java%20%E2%80%A2%20Angular%20%E2%80%A2%20React%20%E2%80%A2%20Cloud%20%E2%80%A2%20DevOps&descAlignY=58&descSize=18"/>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Backend-focused+Software+Engineer;C%23+%2F+.NET+%7C+Java+%2F+Spring+Boot;Building+Scalable+%26+Secure+Web+Applications;Cloud+%26+DevOps+Enthusiast;Always+Learning.+Always+Building." alt="Typing SVG" />
